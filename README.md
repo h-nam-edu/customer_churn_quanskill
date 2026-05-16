@@ -57,5 +57,3 @@ python src/pandas_tasks.py
 
 * `clean_data.csv`: Missing values handled, categorical columns one-hot encoded, and fully ready for ML models.
 * `visuals.png`: Correlation matrix, feature distributions, and bivariate analysis plots.
-
-```
