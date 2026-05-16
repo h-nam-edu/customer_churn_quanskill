@@ -22,6 +22,7 @@ telco-churn-project/
 │   └── visuals.png
 ├── requirements.txt
 └── README.md
+```
 
 ## Setup and Installation
 
