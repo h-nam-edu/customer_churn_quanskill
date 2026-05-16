@@ -33,9 +33,6 @@ pip install -r requirements.txt
 
 ```
 
-
-3. Place the raw dataset in `data/raw/telco_customer_churn.csv`.
-
 ## Execution
 
 You can run the modules locally via scripts or execute everything step-by-step using the Google Colab/Jupyter notebook located in `notebooks/analysis.ipynb`.
@@ -60,7 +57,5 @@ python src/pandas_tasks.py
 
 * `clean_data.csv`: Missing values handled, categorical columns one-hot encoded, and fully ready for ML models.
 * `visuals.png`: Correlation matrix, feature distributions, and bivariate analysis plots.
-
-```
 
 ```
