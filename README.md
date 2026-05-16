@@ -5,7 +5,7 @@ An end-to-end pipeline analyzing telecom customer data, building mathematical in
 ## Project Structure
 
 ```text
-telco-churn-project/
+customer_churn_quanskill/
 ├── data/
 │   ├── raw/
 │   │   └── telco_customer_churn.csv
