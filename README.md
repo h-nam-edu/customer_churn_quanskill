@@ -1,4 +1,3 @@
-```markdown
 # Telco Customer Churn Pipeline
 
 An end-to-end pipeline analyzing telecom customer data, building mathematical insights, and processing features to support a machine learning pipeline. This project was completed as part of the AI Engineer Foundation.
@@ -23,8 +22,6 @@ telco-churn-project/
 │   └── visuals.png
 ├── requirements.txt
 └── README.md
-
-```
 
 ## Setup and Installation
 
